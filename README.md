@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DawoodSleepy12 Muhammad Dawood
 - 👀 I’m interested in Machine Learning and AI development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning sfml c++
 - 📫 How to reach me dawood.dev1818@gmail.com
-- 😄 Pronouns: idc
 - ⚡ Fun fact: I am only 12years old
