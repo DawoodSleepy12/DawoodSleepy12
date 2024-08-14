@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [portfolio still in development](portfolio still in development)
+- 👨‍💻 All of my projects are available at [portfolio still in development]
 
 - 💬 Ask me about **JavaScript**
 
